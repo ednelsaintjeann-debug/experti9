@@ -1,0 +1,23 @@
+[debug] [2025-10-26T13:49:06.445Z] ----------------------------------------------------------------------
+[debug] [2025-10-26T13:49:06.465Z] Command:       /usr/local/bin/node /Users/mac/.npm-global/bin/firebase init
+[debug] [2025-10-26T13:49:06.467Z] CLI Version:   14.19.1
+[debug] [2025-10-26T13:49:06.467Z] Platform:      darwin
+[debug] [2025-10-26T13:49:06.467Z] Node Version:  v22.14.0
+[debug] [2025-10-26T13:49:06.467Z] Time:          Sun Oct 26 2025 09:49:06 GMT-0400 (Eastern Daylight Time)
+[debug] [2025-10-26T13:49:06.467Z] ----------------------------------------------------------------------
+[debug] 
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /Users/mac/Downloads/sexy
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
